@@ -19,7 +19,6 @@
 <a href="https://kaggle.com/https://www.kaggle.com/muhfaizan001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/muhfaizan001" height="30" width="40" /></a>
 <a href="https://medium.com/@muhammadfaizan001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@muhammadfaizan001" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/u/muhfaizan001/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/muhfaizan001/" height="30" width="40" /></a>
-<a href="/https://medium.com/red-buffer/building-a-simple-chatbot-with-llm-719a37659d30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://medium.com/red-buffer/building-a-simple-chatbot-with-llm-719a37659d30" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
