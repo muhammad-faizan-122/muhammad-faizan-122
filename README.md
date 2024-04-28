@@ -1,11 +1,17 @@
 <h1 align="center">Hi 👋, I'm Muhammad Faizan</h1>
-<h3 align="center">A passionate Machine Learning developer from Pakistan</h3>
+<h3 align="center">Machine Learning Engineer | AI | Deep Learning | Computer Vision | Large Langauge Model | Python</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammad-faizan-122&label=Profile%20views&color=0e75b6&style=flat" alt="muhammad-faizan-122" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammad-faizan-122" alt="muhammad-faizan-122" /></a> </p>
 
+- 🌱 I’m currently learning **about working and utilization LLM.**
+
+- 💬 Ask me about **Python, LLM, Computer Vision**
+
 - 📫 How to reach me **muhfaizan2k23@gmail.com**
+
+- 📄 Know about my experiences [https://docs.google.com/document/d/1s9Dd9URmdwOSE-mD-Ua_xLji1hV7AxulV54TsujAves/edit?usp=sharing](https://docs.google.com/document/d/1s9Dd9URmdwOSE-mD-Ua_xLji1hV7AxulV54TsujAves/edit?usp=sharing)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
