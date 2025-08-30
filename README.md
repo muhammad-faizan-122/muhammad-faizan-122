@@ -10,7 +10,6 @@ In October 2021, I started my industrial journey at Red Buffer as a Machine Lear
 Currently, I am advancing my career as an AI Developer II at Veyn.ai, where I continue to apply my expertise in AI to solve complex problems and drive innovation.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammad-faizan-122&label=Profile%20views&color=0e75b6&style=flat" alt="muhammad-faizan-122" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammad-faizan-122" alt="muhammad-faizan-122" /></a> </p>
 - 🌱 I’m currently learning **about working and utilization LLM.**
 
 - 💬 Ask me about **Python, LLM, Computer Vision**
