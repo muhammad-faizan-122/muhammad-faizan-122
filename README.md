@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Faizan</h1>
-<h3 align="center">Machine Learning Engineer | AI | Deep Learning | Computer Vision | Large Langauge Model | Python</h3>
-
+<h3 align="center">Machine Learning Engineer | AI | Deep Learning | Computer Vision | Large Langauge Model | Python | Agentic AI</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammad-faizan-122&label=Profile%20views&color=0e75b6&style=flat" alt="muhammad-faizan-122" /> </p>
 I did Electrical & Computer Science Engineering from CASE in 2021, I am passionate about advancing the field of AI through innovative projects and impactful solutions. My journey in AI began with an internship at CONVSYS in 2020, where I honed my skills and laid the foundation for a career that has since spanned multiple industries and technical challenges.
 
 My academic highlight was an AI-based final year project where I developed a Convolutional Neural Network (CNN) model for the real-time classification of body posture during Namaz. This project involved monitoring transitions, counting Rakats, and deploying the trained model on a Raspberry Pi 4, demonstrating my ability to translate complex AI concepts into practical applications.
@@ -8,7 +8,7 @@ My academic highlight was an AI-based final year project where I developed a Con
 In October 2021, I started my industrial journey at Red Buffer as a Machine Learning Intern. My commitment and skillset quickly earned me a promotion to Mid-level Machine Learning Engineer. During my tenure, I contributed to a wide array of challenging AI projects spanning Computer Vision, Natural Language Processing (NLP), Large Language Models (LLMs), and Robotic Process Automation (RPA). I also had the opportunity to lead several projects, further refining my leadership and technical expertise. My contributions were recognized with the "Rising Star Award" in 2022 and the "Living By Our Values Award" in 2023. I am grateful for the almost three years spent at Red Buffer, where I had the honor of working with an innovative and supportive team.
 
 Currently, I am advancing my career as an AI Developer II at Veyn.ai, where I continue to apply my expertise in AI to solve complex problems and drive innovation.
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammad-faizan-122&label=Profile%20views&color=0e75b6&style=flat" alt="muhammad-faizan-122" /> </p>
+
 
 - 🌱 I’m currently learning **about working and utilization LLM.**
 
