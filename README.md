@@ -12,9 +12,12 @@ Currently, I am advancing my career as an AI Developer II at Veyn.ai, where I co
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammad-faizan-122" alt="muhammad-faizan-122" /></a> </p>
 - 🌱 I’m currently learning **about working and utilization LLM.**
+
 - 💬 Ask me about **Python, LLM, Computer Vision**
+
 - 📫 How to reach me **muhfaizan2k23@gmail.com**
-- 📄 Know about my experiences from [here](https://docs.google.com/document/d/1s9Dd9URmdwOSE-mD-Ua_xLji1hV7AxulV54TsujAves/edit?usp=sharing)
+
+- 📄 Know about my experiences from (here)[https://docs.google.com/document/d/1s9Dd9URmdwOSE-mD-Ua_xLji1hV7AxulV54TsujAves/edit?usp=sharing]
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
